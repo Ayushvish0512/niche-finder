@@ -10,7 +10,7 @@
 **Status:** Complete! Git remote successfully set up. Remote 'origin' points to https://github.com/Ayushvish0512/niche-finder.git.
 
 **Next optional steps:** 
-- Set default branch: `git branch -M main`
-- Add/commit files: `git add . && git commit -m "Initial commit with plan.md and TODO.md"`
+- [x] Set default branch to main ✓
+- Add/commit files: `git add . && git commit -m "Initial commit with product plan and TODO"`
 - Push: `git push -u origin main`
 
