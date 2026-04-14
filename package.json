@@ -1,0 +1,27 @@
+{
+  "name": "nech-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayushvish0512/niche-finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ayushvish0512/niche-finder/issues"
+  },
+  "homepage": "https://github.com/Ayushvish0512/niche-finder#readme",
+  "dependencies": {
+    "commander": "^14.0.3",
+    "fs-extra": "^11.3.4",
+    "ollama": "^0.6.3",
+    "playwright": "^1.59.1"
+  }
+}
